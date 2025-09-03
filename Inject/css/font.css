@@ -1,0 +1,9 @@
+/* 字体css */
+@font-face 
+{
+  font-family: 'HuangkaihuaLawyerFont';
+  /* < !-- 其中HuangkaihuaLawyerFont是引入的字体的名称，可以自定义 -->font-display: swap; */
+  src: url('/Inject/css/ttf/huangkaihuaLawyerfont-2.ttf') format("truetype");
+  /* < !-- url中填写自己的字体地址，我使用的是本地文件夹所以用的是相对路径，如果是外部引用的话在其中写入链接地址就好了 --> */
+
+}
